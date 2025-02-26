@@ -33,6 +33,11 @@
             "type": "vcs",
             "url": "https://github.com/venngo/password_exposed",
             "no-api": true
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/venngo/do-file-cache-psr-6",
+            "no-api": true
         }
     ]
 }
